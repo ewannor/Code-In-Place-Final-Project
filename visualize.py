@@ -1,7 +1,9 @@
 """
 Image Visualization Program.
+It visualises data using image data stripes/bars.
+Each data in the set has been scaled to be numbers between 0 and 1.
 This program is based on an assignment by Nick Partlante
-Lecturer at Stanford University, USA
+a lecturer at Stanford University, USA
 By  Emmanuel W. Annor
 
 """
