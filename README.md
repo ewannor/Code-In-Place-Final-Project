@@ -1,4 +1,4 @@
-# Code-In-Place-2021-Project
+# Code-In-Place-2021-Final-Project
 Image Visualization Program.
 This program is the final project I submitted to 
 Code In Place Spring 2021 - a free intro-to-coding course by some 
